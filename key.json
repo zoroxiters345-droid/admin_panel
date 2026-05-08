@@ -25,7 +25,7 @@
     "Vip": {
       "hwid": "8D05EE6928ACFB3D",
       "expireDate": "2026-05-09",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
