@@ -15,7 +15,7 @@
     ],
     "title": "DPMods Core",
     "updateMsg": "New DPMods version available! Please update.",
-    "updateRequired": true,
+    "updateRequired": false,
     "updateUrl": "https://t.me/dpmodsdialog"
   },
   "BannedHWIDs": {
